@@ -1,0 +1,9 @@
+nav {
+    background-color: brown;
+}
+
+nav ul {
+    justify-content: flex-end;
+    text-align: center;
+    text-transform: lowercase;
+}
